@@ -1,0 +1,12 @@
+{
+	"accounts": [
+		{"accountID": "123456789",
+	 	 "available": "False",
+	 	 "users": [{"name": "toto@gmal.com"}]
+		},
+		{"accountID": "234567890",
+	 	 "available": "True",
+	 	 "users": []
+		}
+	]
+}
